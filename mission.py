@@ -1,7 +1,7 @@
 # mission.py - Programme de vol de l'equipage
 # Lancer le programme : python mission.py
 
-NOM_VAISSEAU = "CESI-1"
+NOM_VAISSEAU = "CESI"
 
 DESTINATION = "Mars"
 
