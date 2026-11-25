@@ -3,7 +3,7 @@
 
 NOM_VAISSEAU = "CESI-1"
 
-DESTINATION = "Mars"
+DESTINATION = "Cacahuete"
 
 CARBURANT = 100  # en litres
 
